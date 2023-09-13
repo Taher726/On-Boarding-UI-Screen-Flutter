@@ -1,6 +1,8 @@
 # onboardingui
 
-A new Flutter project.
+On Boarding UI Screen created with fluuter.
+
+https://github.com/Taher726/On-Boarding-UI-Screen-Flutter/assets/100540497/c19ad688-89b6-4274-b49b-c2ee9658f86e
 
 ## Getting Started
 
